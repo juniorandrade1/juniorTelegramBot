@@ -1,0 +1,27 @@
+{
+  "name": "juniortelegrambot",
+  "version": "1.0.0",
+  "description": "junior telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juniorandrade1/juniorTelegramBot.git"
+  },
+  "author": "JuniorAndrade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juniorandrade1/juniorTelegramBot/issues"
+  },
+  "homepage": "https://github.com/juniorandrade1/juniorTelegramBot#readme",
+  "dependencies": {
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "telebot": "^1.2.2",
+    "youtube-audio-server": "^2.1.3"
+  },
+  "devDependencies": {}
+}
